@@ -1,0 +1,3 @@
+These dataset files come from the "Baby Names from Social Security Card Applications - National Data" from
+Data.gov (https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data) and
+are provided under the Creative Commons CCZero license (https://creativecommons.org/publicdomain/zero/1.0/).
